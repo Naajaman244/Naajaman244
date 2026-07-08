@@ -1,7 +1,11 @@
 Hi, I am Nuraht Jimoh 
 
-Data Analyst | Excel , Power Bi & SQL 
+Data Analyst | Excel | Power Bi | SQL 
+
 I am a Data Analyst passionate about turning data into actionable inisghts.
+
 Tools: Excel, Power Bi & SQL
-Portofolio: Project Coming soon
+
+Portofolio: https://github.com/Naajaman244
+
 Connect with me: http://linkedin.com/in/nuraht-jimoh
